@@ -1,0 +1,6 @@
+C:\Users\out250991\Desktop\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache
+C:\Users\GT-ST-12\Desktop\Wumpus\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\WumpusWorldTemplateContent.contentprojResolveAssemblyReference.cache

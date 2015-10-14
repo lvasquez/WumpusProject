@@ -1,0 +1,59 @@
+<tilebank>
+	<layerData name ="griddyDefault">
+		<tile>
+			<name>UnknownTile</name>
+			<texture>GriddyDefault/unknownTile</texture>
+			<key>255</key>
+		</tile>
+		<tile>
+			<name>BlankTile</name>
+			<texture>GriddyDefault/blankTile</texture>
+			<key>0</key>
+		</tile>
+	</layerData>
+  
+	<layerData name = "terrain">
+		<tile>
+			<name>ground</name>
+			<texture>Terrain/dirt</texture>
+			<key>1</key>
+		</tile>
+	</layerData>
+	
+	<layerData name = "world">
+    <defaultProperties>
+      <property name ="breezy">false</property>
+      <property name ="smelly">false</property>
+      <property name ="glitter">false</property>
+      <property name ="visited">false</property>
+      <property name ="dangerous">false</property>
+    </defaultProperties>
+		<tile>
+			<name>wumpus</name>
+			<texture>Wumpus/wumpus</texture>
+			<key>3</key>
+		</tile>
+		<tile>
+			<name>pit</name>
+			<texture>Wumpus/pit</texture>
+			<key>4</key>
+		</tile>
+    <tile>
+      <name>archer2</name>
+      <texture>GriddyDefault/blankTile</texture>
+      <key>7</key>
+    </tile>
+    <tile>
+			<name>gold</name>
+			<texture>Wumpus/gold</texture>
+      <property name ="glitter">true</property>
+			<key>5</key>
+		</tile>
+		<tile>
+			<name>archer</name>
+			<texture>GriddyDefault/blankTile</texture>
+			<key>6</key>
+		</tile>		
+	</layerData>
+	
+</tilebank>

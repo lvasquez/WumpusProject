@@ -1,0 +1,72 @@
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\gold.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\pit.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\wumpus.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Terrain\dirt.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\blankTile.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\unknownTile.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\cow.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\wumpusWorld.tmx
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\tileBank.xml
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Griddy2D_v1.0.dll
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\ProyectoWumpus.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\IA\WumpusWorldTemplate\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\gold.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\pit.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\wumpus.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Terrain\dirt.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\blankTile.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\unknownTile.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\cow.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\wumpusWorld.tmx
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\tileBank.xml
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Griddy2D_v1.0.dll
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\ProyectoWumpus.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\IA\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\gold.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\pit.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\wumpus.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Terrain\dirt.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\blankTile.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\unknownTile.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\pixel.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\cow.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\wumpusWorld.tmx
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\tileBank.xml
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Griddy2D_v1.0.dll
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\ProyectoWumpus.csprojResolveAssemblyReference.cache
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\gold.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\pit.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\wumpus.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Terrain\dirt.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\blankTile.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\unknownTile.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\pixel.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\cow.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\wumpusWorld.tmx
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Maps\tileBank.xml
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\WumpusWorldTemplate.pdb
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Griddy2D_v1.0.dll
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\ProyectoWumpus.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.exe
+C:\Users\Luis\Desktop\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\obj\x86\Debug\WumpusWorldTemplate.pdb

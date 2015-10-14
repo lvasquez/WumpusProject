@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\Wumpus\gold.png</Source>
+      <Name>Tiles\Wumpus\gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\gold.xnb</Output>
+      <Time>2015-10-08T11:55:48.0502761-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wumpus\pit.png</Source>
+      <Name>Tiles\Wumpus\pit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\pit.xnb</Output>
+      <Time>2011-10-14T13:02:51.569904-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Wumpus\wumpus.png</Source>
+      <Name>Tiles\Wumpus\wumpus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Wumpus\wumpus.xnb</Output>
+      <Time>2015-10-08T12:04:10.7020261-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Terrain\dirt.jpg</Source>
+      <Name>Tiles\Terrain\dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\Terrain\dirt.xnb</Output>
+      <Time>2015-10-12T10:21:14.8462307-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GriddyDefault\blankTile.png</Source>
+      <Name>Tiles\GriddyDefault\blankTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\blankTile.xnb</Output>
+      <Time>2011-10-14T13:02:51.569904-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GriddyDefault\unknownTile.png</Source>
+      <Name>Tiles\GriddyDefault\unknownTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\Tiles\GriddyDefault\unknownTile.xnb</Output>
+      <Time>2011-10-14T13:02:51.569904-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2011-10-14T13:02:51.569904-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cow.png</Source>
+      <Name>cow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\cow.xnb</Output>
+      <Time>2015-10-08T11:32:27.3501606-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2011-10-14T13:02:51.569904-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplateContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplateContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GT-ST-12\Desktop\Luis Files\ProyectoWumpus\ProyectoWumpus\WumpusWorldTemplate\WumpusWorldTemplate\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-08T08:56:31.4080314-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
